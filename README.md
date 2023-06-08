@@ -46,7 +46,7 @@ Double click the PlayerController file and type the coding
 
 ## Program:
 
-```
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
